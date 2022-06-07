@@ -1,2 +1,2 @@
-[My CV](https://sputnik555.github.io/rsschool-cv/cv)
+[My CV](https://sputnik555.github.io/rsschool-cv/)
  
